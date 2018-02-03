@@ -2,3 +2,18 @@ body
 {
 	background-color:#A9D0F5;
 }
+
+div .panel-default {
+
+}
+
+.btn-delete {
+	margin: 10px;
+	border:  1px solid black;
+	padding-top: 0;
+	background-color: #ADD8E6;
+	border-radius: 100%;
+	font-size: 14px;
+	text-align:  center;
+	float: right;
+}
